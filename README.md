@@ -1,4 +1,4 @@
-# AAB Vue Frontend Assignment
+# Transactions Dashboard
 
 This is a Vue 3 + Vite TypeScript application with the following functionalities:
 
